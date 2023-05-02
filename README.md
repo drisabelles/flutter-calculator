@@ -58,6 +58,29 @@ $ flutter run
 
 ```
 
+## 🗂️ Organização das pastas <a name="folders"></a>
+
+```bash
+📂 flutter-calculator
+|- 📁 android
+|- 📁 ios
+|- 📁 lib
+|--- 📄 buttons.dart
+|--- 📄 main.dart
+|- 📁 linux
+|- 📁 macos
+|- 📁 test
+|- 📁 web
+|- 📁 windnows
+|- 📄 .gitignore
+|- 📄 .metadata
+|- 📄 analysis_options.yaml
+|- 📄 pubspec.lock
+|- 📄 pubspec.yaml
+```
+
+</br>
+
 ## 👩‍💻 Autor <a name="autor"></a>
 
 - LinkedIn - [Isabelle Ribeiro](https://www.linkedin.com/in/drisabelles/)
